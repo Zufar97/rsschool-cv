@@ -1,2 +1,2 @@
-CV link
-https://your-github-account.github.io/rsschool-cv/Zufar97
+# rsschool-cv
+My cv (https://your-github-account.github.io/rsschool-cv/Zufar97)
